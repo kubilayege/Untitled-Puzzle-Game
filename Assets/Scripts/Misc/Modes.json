@@ -1,0 +1,68 @@
+{
+    "EASY": {
+        "moveCount": 10,
+        "success": 30,
+        "fail": 50,
+        "shapes": [
+            "tek",
+            "yatay2",
+            "dik2",
+            "yatay3",
+            "dik3"
+        ]
+    },
+    "MEDIUM": {
+        "moveCount": 15,
+        "success": 30,
+        "fail": 20,
+        "shapes": [
+            "tek",
+            "yatay2",
+            "dik2",
+            "yatay3",
+            "dik3",
+            "L",
+            "tersF"
+        ]
+    },
+    "HARD": {
+        "moveCount": 20,
+        "success": 20,
+        "fail": 10,
+        "shapes": [
+            "tek",
+            "yatay2",
+            "dik2",
+            "yatay3",
+            "dik3",
+            "L",
+            "tersL",
+            "F",
+            "tersF",
+            "kare",
+            "uzunL",
+            "uzuntersF"
+        ]
+    },
+    "HARDEST": {
+        "moveCount": 50,
+        "success": 75,
+        "fail": 20,
+        "shapes": [
+            "tek",
+            "yatay2",
+            "dik2",
+            "yatay3",
+            "dik3",
+            "L",
+            "tersL",
+            "F",
+            "tersF",
+            "kare",
+            "uzunL",
+            "uzuntersF",
+            "uzunF",
+            "uzuntersF"
+        ]
+    }
+}

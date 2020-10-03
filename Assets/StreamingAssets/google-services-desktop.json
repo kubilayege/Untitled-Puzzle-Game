@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233957178198",
+    "firebase_url": "https://run-flag-3d.firebaseio.com",
+    "project_id": "run-flag-3d",
+    "storage_bucket": "run-flag-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233957178198:android:d70adda8b62b7edcfbb4f7",
+        "android_client_info": {
+          "package_name": "com.oskankayirci.runflag3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233957178198-8gi454a4fmtp7088bn0nikborsb9bkf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx3mLA64SSBFJNUgWESbPWsE65q6k5pYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233957178198-8gi454a4fmtp7088bn0nikborsb9bkf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233957178198-pjhhj4ljt1aejuk54t10fl61i0vdb0vt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oskankayirci.runflag3d",
+                "app_store_id": "1491649310"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

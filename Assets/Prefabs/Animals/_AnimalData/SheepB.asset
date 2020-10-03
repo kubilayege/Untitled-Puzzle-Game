@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 230f39842af45034ab11c34408460127, type: 3}
+  m_Name: SheepB
+  m_EditorClassIdentifier: 
+  animal3D: {fileID: 1910410527260508, guid: 85919e30b1758094eb565a9294ca6d91, type: 3}
+  animalTexture: {fileID: 21300000, guid: f09f186f3b37de14093a1ad0e9623920, type: 3}
+  cageScale: {x: 0.79, y: 0.75, z: 0.97}

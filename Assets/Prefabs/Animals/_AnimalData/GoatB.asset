@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 230f39842af45034ab11c34408460127, type: 3}
+  m_Name: GoatB
+  m_EditorClassIdentifier: 
+  animal3D: {fileID: 1146635882412854, guid: eb321bd1c9e40394ba266bc95d95fd6a, type: 3}
+  animalTexture: {fileID: 21300000, guid: acba7c3d261a8fa4789b27d26d514b63, type: 3}
+  cageScale: {x: 0.6, y: 1, z: 1.1}

@@ -1,0 +1,570 @@
+{
+    "isRefreshDataEveryLaunch": true,
+
+    "levelNum": 1,
+    "bonusLevelStepCount": 5,
+    "isBonusLevel": false,
+    "isLevelCompleted": true,
+
+    "isVibrationOpen": true,
+    "isSoundOpen": true,
+
+    "inventory1RandomGoldPrice": 400,
+    "inventory2RandomGoldPrice": 500,
+    "continueCountdown": 10,
+    "noThanksAppearAfter": 3,
+    "gold": 0,
+    "videoAds": [{
+            "name": "gold",
+            "reward": 1000
+        },
+        {
+            "name": "continue",
+            "reward": -1
+        }
+    ],
+    "selectedTheme1": 0,
+    "selectedTheme2": 0,
+    "theme1Title": "CARS",
+    "theme2Title": "OBJECTS",
+    "theme1": [{
+            "id": 0,
+            "name": "item1",
+            "price": 210,
+            "state": true
+        },
+        {
+            "id": 1,
+            "name": "item2",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 2,
+            "name": "item3",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 3,
+            "name": "item4",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 4,
+            "name": "item5",
+            "price": 100,
+            "state": true
+        },
+        {
+            "id": 5,
+            "name": "item6",
+            "price": 100,
+            "state": true
+        },
+        {
+            "id": 6,
+            "name": "item7",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 7,
+            "name": "item8",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 8,
+            "name": "item9",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 9,
+            "name": "item10",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 10,
+            "name": "item11",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 11,
+            "name": "item12",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 12,
+            "name": "item13",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 13,
+            "name": "item14",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 14,
+            "name": "item15",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 15,
+            "name": "item16",
+            "price": 100,
+            "state": false
+        }
+    ],
+    "theme2": [{
+            "id": 0,
+            "name": "item1",
+            "price": 320,
+            "state": true
+        },
+        {
+            "id": 1,
+            "name": "item2",
+            "price": 100,
+            "state": true
+        },
+        {
+            "id": 2,
+            "name": "item3",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 3,
+            "name": "item4",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 4,
+            "name": "item5",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 5,
+            "name": "item6",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 6,
+            "name": "item7",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 7,
+            "name": "item8",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 8,
+            "name": "item9",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 9,
+            "name": "item10",
+            "price": 100,
+            "state": true
+        },
+        {
+            "id": 10,
+            "name": "item11",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 11,
+            "name": "item12",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 12,
+            "name": "item13",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 13,
+            "name": "item14",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 14,
+            "name": "item15",
+            "price": 100,
+            "state": false
+        },
+        {
+            "id": 15,
+            "name": "item16",
+            "price": 100,
+            "state": false
+        }
+    ],
+    "savedShapes": [{
+        "x": 0,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 2,
+        "isFull": false
+    }],
+    "uncompletedLevel": [{
+        "x": 0,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 0,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 1,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 2,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 3,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 4,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 5,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 6,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 7,
+        "y": 8,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 0,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 1,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 2,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 3,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 4,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 5,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 6,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 7,
+        "isFull": false
+    }, {
+        "x": 8,
+        "y": 8,
+        "isFull": false
+    }],
+    "isRewardedVideoWatched": false,
+    "whichVideoFor": "",
+    "durationForContinuePanelShow": 2,
+
+    "isTest": true,
+    "adsTime": 10,
+    "intersitialDurationForTest": 5,
+    "rewardedDurationForTest": 10
+}

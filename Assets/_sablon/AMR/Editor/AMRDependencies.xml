@@ -1,0 +1,26 @@
+<dependencies>
+	<iosPods>
+		<iosPod name="AMRSDK" version="~> 1.4" minTargetSdk="8.0"/>
+		<iosPod name="AMRAdapterAdmob" version="~> 7.52" minTargetSdk="9.0"/>
+		<iosPod name="AMRAdapterApplovin" version="~> 6.10" minTargetSdk="9.0"/>
+		<iosPod name="AMRAdapterUnity" version="~> 3.3" minTargetSdk="9.0"/>
+
+	</iosPods>
+	<androidPackages>
+		<androidPackage spec="com.android.volley:volley:1.1.0"/>
+		<androidPackage spec="com.admost.sdk:amr:2.0.2"/>
+		<androidPackage spec="com.admost.sdk:admost:0.0.3.a14"/>
+		<androidPackage spec="com.google.android.gms:play-services-base:16.1.0"/>
+		<androidPackage spec="android.arch.core:common:1.1.0"/>
+		<androidPackage spec="android.arch.core:runtime:1.1.0"/>
+		<androidPackage spec="android.arch.lifecycle:common:1.1.0"/>
+		<androidPackage spec="com.admost.sdk:unity-plugin:1.7.3"/>
+		<androidPackage spec="com.google.android.gms:play-services-ads:17.2.1"/>
+		<androidPackage spec="com.admost.sdk:admob-gt-17.2.0-adapter:1.0.0.a14"/>
+		<androidPackage spec="com.admost.sdk:applovin:9.9.2.a14"/>
+		<androidPackage spec="com.admost.sdk:unity:3.3.0.a14"/>
+		<repositories>
+			<repository>http://repo.admost.com:8081/artifactory/admost</repository>
+		</repositories>
+	</androidPackages>
+</dependencies>

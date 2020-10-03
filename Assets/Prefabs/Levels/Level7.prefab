@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3709417403267352476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2727659391671212279}
+  - component: {fileID: 3761407988901191262}
+  m_Layer: 0
+  m_Name: Level7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2727659391671212279
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3709417403267352476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3761407988901191262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3709417403267352476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08633b7849c9ce84cbeeb4251814a252, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelNumber: 7
+  startingMode: 2
+  partTheme: 2
+  animals:
+  - {fileID: 11400000, guid: df8ab404061a38449ae79562e0cc8387, type: 2}
+  - {fileID: 11400000, guid: f61b24942cf8db246a7f4d84ed1dfd10, type: 2}
+  - {fileID: 11400000, guid: d5be072e10392ef45aba883010daa52d, type: 2}
+  animalIndex: 000000000100000002000000
+  levelPartSprites:
+  - {fileID: 21300000, guid: fc8b22b2425a6584ca71a037478a7012, type: 3}
+  - {fileID: 21300000, guid: 35a840d928859e94689d837551f8e354, type: 3}
+  - {fileID: 21300000, guid: 766f08dac7d5f3647bf0479b11206440, type: 3}
+  - {fileID: 21300000, guid: 7fa6b28fe614b7c49bc0ebc07ab5c2fc, type: 3}
+  - {fileID: 21300000, guid: 98ec9cb108c7396469999a496cb99de5, type: 3}
+  blockerPos:
+  - x: 3
+    y: 3
+    isFull: 0
+  - x: 2
+    y: 7
+    isFull: 0
+  animalObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  missionLenghts: 1b000000050000000f000000
+  missions: []
